@@ -1,2 +1,2 @@
 # grade-calculator
-calculates grades given in list
+calculates grades given in a list
